@@ -121,4 +121,4 @@ bot.on("message", function(message) {
     }
 });
 
-client.login(process.env."NTM0NDkwMDAyMTc3MTMwNTI2.Dx6bZw.Ut_-Ci9vft8-nW5S6MNRez-AqIg");
+client.login(process.env.BOT_TOKEN);
