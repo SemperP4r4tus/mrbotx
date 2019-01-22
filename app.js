@@ -121,4 +121,4 @@ bot.on("message", function(message) {
     }
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(MTE0LDk5LDE2OSwyMDcsMTA4LDE1MiwxODMsMTMx);
